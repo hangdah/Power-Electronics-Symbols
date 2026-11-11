@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1.83 1.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+    </style>
+    <symbol id="Dot" viewBox="0 0 1.83 1.83">
+      <circle class="cls-1" cx=".92" cy=".92" r=".56"/>
+    </symbol>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <use width="1.83" height="1.83" xlink:href="#Dot"/>
+  </g>
+</svg>

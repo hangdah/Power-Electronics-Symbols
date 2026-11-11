@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6.26 9.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+    </style>
+    <symbol id="Capacitor_3" viewBox="0 0 6.26 9.08">
+      <g>
+        <path class="cls-1" d="M5.9,3.19H.36M5.9,5.89H.36"/>
+        <line class="cls-1" x1="3.13" y1="3.19" x2="3.13" y2=".36"/>
+        <line class="cls-1" x1="3.13" y1="5.89" x2="3.13" y2="8.72"/>
+      </g>
+    </symbol>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <use width="6.26" height="9.08" xlink:href="#Capacitor_3"/>
+  </g>
+</svg>

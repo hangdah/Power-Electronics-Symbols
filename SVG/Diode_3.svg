@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 13.26 7.46">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .71px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: .71px;
+      }
+    </style>
+    <symbol id="Diode_3" viewBox="0 0 13.26 7.46">
+      <g>
+        <path class="cls-1" d="M9.4,7.1V.36M9.4,3.73l-5.55,3.37V.36l5.55,3.37h0Z"/>
+        <line class="cls-2" x1="9.5" y1="3.73" x2="12.9" y2="3.73"/>
+        <line class="cls-2" x1="3.76" y1="3.73" x2=".35" y2="3.73"/>
+      </g>
+    </symbol>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <use width="13.26" height="7.46" xlink:href="#Diode_3"/>
+  </g>
+</svg>

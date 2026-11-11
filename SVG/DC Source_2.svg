@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 11.8 13.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+    </style>
+    <symbol id="DC_Source_2" data-name="DC Source 2" viewBox="0 0 11.8 13.83">
+      <g>
+        <g>
+          <line class="cls-1" x1=".36" y1="4.89" x2="11.45" y2="4.89"/>
+          <line class="cls-1" x1="3.53" y1="8.94" x2="8.28" y2="8.94"/>
+        </g>
+        <line class="cls-1" x1="5.9" y1="4.89" x2="5.9" y2=".36"/>
+        <line class="cls-1" x1="5.9" y1="8.94" x2="5.9" y2="13.48"/>
+      </g>
+    </symbol>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <use width="11.8" height="13.83" xlink:href="#DC_Source_2"/>
+  </g>
+</svg>
